@@ -1,2 +1,5 @@
 # TCCRDA
-Projeto TCC para a Escola SENAI
+Comandos para instalar e executar o código:
+npm install sweetalert2
+npm install json-server
+node server.js
